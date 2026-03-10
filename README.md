@@ -1,18 +1,44 @@
 # 👨‍💻 Bernardo Adolfo Gómez Montoya
-### **Software Developer & Researcher | Aspirante Cantera Nivel 2 @ Sofka U**
+### **Software Developer & Researcher | AI & Data Science Scholar @ UTokyo (GCI)**
 
-¡Bienvenido! Soy un apasionado por la intersección entre el **desarrollo de software**, la **IA** y el **Hardware**. Mi enfoque principal es el análisis de sistemas y la simulación en tiempo real con un alto rigor técnico.
+¡Bienvenido! Soy un apasionado por la intersección entre el desarrollo de software, la IA y el Hardware. Mi enfoque actual combina la formación avanzada en Latinoamérica con la especialización internacional en Inteligencia Artificial aplicada.
 
 ---
 
-### 🚀 Mi Perfil Profesional
-* **Enfoque Actual:** Perfeccionando habilidades Full Stack para problemáticas tecnológicas de nivel intermedio en la **Cantera Nivel 2 de Sofka**.
-* **Trayectoria:** Experiencia sólida en análisis de sistemas, instrumentación y automatización.
-* **Filosofía:** "Estudiante eterno". Priorizo el **Clean Code** y el entendimiento profundo de la lógica subyacente de cada algoritmo.
+##  Mi perfil Profesional
+
+### **🚀 Enfoque Actual y Nuevos Horizontes :**
+
+* **University of Tokyo (GCI World):** Estudiante e investigador en el **Matsuo-Iwasawa Lab.** Especializándome en potenciar el potencial humano mediante Data Science y AI de vanguardia.
+
+* **Tech Advanced @ Oracle Next Education:** Profundizando en arquitecturas de software de alto rendimiento y optimización técnica (Alura Latam).
+
+* **Data Science Specialist:** Graduado del programa especializado de Oracle ONE, con dominio en ETL, Machine Learning y análisis estadístico avanzado.
+
+### **💡 Trayectoria y Filosofía**
+
+* **Trayectoria:**  Experiencia sólida en análisis de sistemas, instrumentación y automatización. 
+Especialista en integrar el mundo físico (Hardware) con el procesamiento inteligente de datos.
+
+* **Filosofía:**  "Estudiante eterno". Aplicación rigurosa de Clean Code y búsqueda constante de la lógica subyacente en cada algoritmo para crear soluciones escalables.
+
+### **📊 Formación Destacada**
+
+* **🇯🇵 University of Tokyo (2026):**  Data Science & AI Specialization.
+
+* **☁️ Oracle ONE + Alura Latam:**  Especialización en Data Science (Finalizado).
+
+* **💻 SENA :** Tecnólogo en Análisis y Desarrollo de Software.
+
+* **⚡ Universidad de Antioquia :** Ingeniería  Electrónica y de Telecomunicaciones 
 
 ### 🛠️ Tecnologías y Herramientas
-* **Exploración:** IA, Hardware, Sistemas de simulación Real-Time.
-* **Compromiso:** Calidad de industria y mejores prácticas de ingeniería.
+
+* **Especialidad:** IA, Hardware robusto, Sistemas de simulación Real-Time.
+
+* **Stack Técnico:**  Python (Data Science), SQL, Arquitecturas de alto rendimiento.
+
+* **Compromiso:**  Calidad de industria y mejores prácticas de ingeniería de software.
 
 ### 📨 Conectemos
 * **LinkedIn:** www.linkedin.com/in/bernardogómezm .

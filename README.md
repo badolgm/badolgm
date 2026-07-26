@@ -24,8 +24,8 @@
 - 🇯🇵 **University of Tokyo (GCI World, 2026):** Data Science & AI — completado, certificado en trámite.
 - ☁️ **Oracle ONE + Alura Latam:** Especialización en Data Science — finalizada.
 - 💻 **SENA:** Tecnología en Análisis y Desarrollo de Software — en curso (Etapa Productiva).
-- 🔢 **Universidad de Antioquia:** Pregrado en Matemáticas Puras — en curso.
-- ⚡ **Universidad de Antioquia:** Ingeniería Electrónica y de Telecomunicaciones — 6 semestres aprobados.
+- 🔢 **Universidad de Antioquia:** Pregrado en Matemáticas Puras — en pausa desde 2023-2.
+- ⚡ **Universidad de Antioquia:** Ingeniería Electrónica y de Telecomunicaciones — 6 semestres aprobados (según pensum); en pausa desde 2023-2.
 
 ### 🛠️ Tecnologías y Herramientas
 
